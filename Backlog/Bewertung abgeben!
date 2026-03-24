@@ -17,8 +17,8 @@ Antworten:
 
 Marcel: 
 -Arbeitsteilung ist sehr gut, sinnvoll und fair (jeder macht das was er am besten kann)
--Julian und ich sind ein sehr gutes Designer Team und machen gut progress, wir müssen wahrscheinlich demnächst den Programmierern bei einigen Dingen aushelfen.
--Aurel macht sehr guten Job als Scrum Master, Ben und Raphael zeigen ihre Programmierkünste müssen aber schneller arbeiten
+-Julian und ich sind ein sehr gutes Designer-Team und machen gut progress, wir müssen wahrscheinlich demnächst den Programmierern bei einigen Dingen aushelfen.
+-Aurel macht sehr guten Job als Scrum-Master, Ben und Raphael zeigen ihre Programmierkünste müssen aber schneller arbeiten
 -objektive Kritik: Ben muss mehr arbeiten (er macht nichts) 
 -nächstes Ziel: Ticket-Symbol erstellen, Items ausdenken und erstellen, Sounds raussuchen...
 -besonders gut gelungen ist uns die erstellung der symbole + gutes Zeitmanagement
@@ -27,12 +27,15 @@ Marcel:
 
 
 Julian: 
-- Arbeitsverteilung finde ich nahezu fair, bin jedoch der Meinung, dass Raphael und Ben als Programmmierer sehr viel mehr als Marcel und ich machen (müssen). Deswegen sollten Marcel und ich uns schon mal darpber informieren, wie wir z.B. unsere Bilder in das Programm einbinden können.
-- 
-- alle erledigen ihren Job vorbildlich: Marcels Arbeit ist sehr synchron zu meiner, Aurel plant sehr gut, Raphael und Ben machen gut progress im Programmiern 
-
-
-
+- Arbeitsverteilung finde ich nahezu fair, bin jedoch der Meinung, dass Raphael und Ben als Programmmierer sehr viel mehr als Marcel und ich machen (müssen). Deshalb sollten Marcel und ich uns z.B. schon mal darüber informieren, wie wir unsere Bilder in das Programm einbinden können.
+- zu Beginn zu viele Grafiken erstellt, das hätten wir im Voraus besser planen können
+- alle erledigen ihren Job vorbildlich: Marcels Arbeit ist sehr synchron zu meiner, Aurel plant sehr gut, Raphael und Ben machen gut Fortschritt im Programmiern 
+- kein Schlechtreden der von Marcel und mir designten Grafiken
+- Ja, Ticket-Symbol erstellen, Items ausdenken und erstellen, Sounds raussuchen...
+- Erstellung der Symbole mit „“, Aurels Arbeit als Scrum-Master
+- 8/10 
+- 7/10 - leider etwas Zeitdruck, da wir noch nicht genau wissen, wie viel Zeit wir noch wofür benötigen
+- dass alle weiter so durchziehen, dass die Zeit reicht und wir am Ende ein geiles funktionierendes Ergebnis haben
 
 
 Raphael:
@@ -41,7 +44,7 @@ Raphael:
 -ich finde es ziemlich gut aufgeteilt, vielleicht noch irgendwie mehr Hilfe beim programmieren (wahrscheinlich durch Ben)
 -nichts direkt
 -ja, Umsetzung ist mir nicht immer direkt klar
--implementierung von tkinter und grobe Programmierschritte
+-Implementierung von tkinter und grobe Programmierschritte
 -6/10 - es funktioniert noch zu wenig, aber ich sehe Fortschritte
 -8/10 - Aurel macht sehr gute Arbeit und es macht mir Spaß
 -bisschen mehr Hilfe beim programmieren und umsetzen der Ideen
@@ -57,9 +60,9 @@ Ben V:
 
 
 Aurel:
-- finde die arbeitsteilung sehr gut, sehr fair, Marcel und Julian müssen bisschen ausgeweitet werden als nur Design
+- finde die Arbeitsteilung sehr gut, sehr fair, Marcel und Julian müssen bisschen ausgeweitet werden als nur Design
 - bin voll ausgelastet
-- ich bin zufrieden mit meiner arbeit und könnte etwas gelassener und mehr weitblick haben
+- ich bin zufrieden mit meiner Arbeit und könnte etwas gelassener und mehr weitblick haben
 - ich finde die Symbole sehr sehr gutgelungen! ich schätze die ehrliche arbeitsweise von Raphael und Ben ohne viel KI
 - Programmierer müssen viel mehr kommentieren im Projekt, Klassendiagramm bald notwendig
 - objektiv: Desynchronisierung von Githhub hat wahnsinnig viel Zeitbverschlungen und nervt stark, etwas mehr Kommentare der Stake Holder 
