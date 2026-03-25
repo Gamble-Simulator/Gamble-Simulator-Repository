@@ -19,7 +19,7 @@ Marcel:
 -Arbeitsteilung ist sehr gut, sinnvoll und fair (jeder macht das was er am besten kann)
 -Julian und ich sind ein sehr gutes Designer-Team und machen gut progress, wir müssen wahrscheinlich demnächst den Programmierern bei einigen Dingen aushelfen.
 -Aurel macht sehr guten Job als Scrum-Master, Ben und Raphael zeigen ihre Programmierkünste müssen aber schneller arbeiten
--objektive Kritik: Ben muss mehr arbeiten (er macht nichts) 
+-objektive Kritik: keine
 -nächstes Ziel: Ticket-Symbol erstellen, Items ausdenken und erstellen, Sounds raussuchen...
 -besonders gut gelungen ist uns die erstellung der symbole + gutes Zeitmanagement
 -Zwischenstand: eigentlich 10/10 aber weil die programmierer zu langsam sind nur 9/10
@@ -41,7 +41,7 @@ Julian:
 Raphael:
 -Arbeitsteilung finde ich gut, ich habe ein bisschen das Gefühl, dass fast alles an Ben und mir hängt, keine Ahnung, wie man dieses Problem ändern könnte
 -mir macht meine Arbeit sehr Spaß, ich könnte mehr KI effizient nutzen, um schneller zu arbeiten
--ich finde es ziemlich gut aufgeteilt, vielleicht noch irgendwie mehr Hilfe beim programmieren (wahrscheinlich durch Ben)
+-ich finde es ziemlich gut aufgeteilt, vielleicht noch irgendwie mehr Hilfe beim programmieren 
 -nichts direkt
 -ja, Umsetzung ist mir nicht immer direkt klar
 -Implementierung von tkinter und grobe Programmierschritte
@@ -49,14 +49,16 @@ Raphael:
 -8/10 - Aurel macht sehr gute Arbeit und es macht mir Spaß
 -bisschen mehr Hilfe beim programmieren und umsetzen der Ideen
 
-
-
-
 Ben V:
-
-
-
-
+- Arbeitsteilung ist gut, jeder hat seine Aufgaben und keiner macht übermäßig viel oder wenig 
+- meine Arbeit finde ich gut und interessant, ich könnte die Effizienz steigern, indem ich eventuell mehr KI nutze
+- die anderen arbeiten gut und effizient, ich bin mit den Ergebnissen zufrieden
+- objektive Kritik: -
+- ja, tkinter Oberfläche erstellen und Programmierung weiter
+- grober Programmierung und tkinter (erste Schritte)
+- 6/10: es funktioniert bedingt, aber ich sehe Fortschrittpotential 
+- 8/10: alle arbeiten an ihren Aufgaben und erledigen sie ordentlich, kleine Probleme werden direkt angegangen
+- alle weiterhin an Aufgaben arbeiten und hoffentlich die Zeit reicht 
 
 
 Aurel:
