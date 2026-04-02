@@ -2,3 +2,6 @@ Spiler kann zwischen 3 (Kosten: 3 Münzen) und 7 Spins (Kosten: 7 Münzen) wähl
 
 Level 1: 
 Spieler muss xx Münzen erreichen
+--> wenn erreicht, dann automatisch weiter in Level 2
+
+Level 2: Spieler behält alle Münzen aus Level 1
